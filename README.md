@@ -3,7 +3,5 @@ This file has verilog code for R Type Triadic instruction of SDLX processor whic
 # Steps 
 1. Create a project file in Vivado.
 2. Create the three files named - 'R_triadic.v', 'Reg_File.v', 'ALU.v' inside the project file.
-3. Add the testbench file to see the output.
-4. Save and run synsthesis.
 5. Create the constraints file.
 6. Save and run to see the output on FPGA. 
